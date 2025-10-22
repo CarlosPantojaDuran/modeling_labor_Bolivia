@@ -1,2 +1,1 @@
-# trabajomicro
- 
+Este proyecto proporciona un conjunto de scripts y notebooks para la estimación y comparación de modelos econométricos aplicados a datos de comportamiento socioeconómico. Incluye implementaciones de modelos Logit y Probit para variables dependientes binarias, Tobit para variables censuradas y el modelo Heckman para corregir sesgos de selección. El repositorio ofrece tanto ejemplos con datos simulados como aplicaciones a bases de datos reales, junto con visualizaciones de resultados y explicaciones detalladas de la interpretación de los coeficientes y efectos marginales, facilitando su uso para análisis de políticas públicas y estudios empíricos en economías en desarrollo.
